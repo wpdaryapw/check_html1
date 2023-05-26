@@ -1,0 +1,44 @@
+.no_mrgn { margin: 0; }
+.mrgn_aut { margin: auto; }
+.no_brdr {border: none; }
+.fnt { font-family: Helvetica, sans-serif; }
+.clr_wht { color: white; }
+.bkg_clr_green { background-color: rgb(145, 190, 162); }
+.bkg_clr_gray { background-color: rgb(228, 228, 228);}
+.pdg_btm_50 { padding-bottom: 50px; }
+.pdg_btm_30 { padding-bottom: 30px; }
+.pdg_top_5 { padding-top: 5px; }
+.pdg_btm_5 { padding-bottom: 5px; }
+.pdg_lft_30 { padding-left: 30px; }
+.pdg_lft_40 { padding-left: 40px; }
+.pdg_rht_30 { padding-right: 30px; }
+.pdg_rht_40 { padding-right: 40px; }
+.pdg_top_50 { padding-top: 50px; }
+.bkg_pict_lrg { background-image: url(images/priroda.jpg); }
+.bkg_pict_1 { background-image: url(images/forest.jpg); }
+.bkg_pict_2 { background-image: url(images/man.jpg); }
+.bkg_pos {background-position: contain; background-position: center;}
+.wdth_60 { max-width: 60vw; }
+.wdth_50 { max-width: 50vw; }
+.wdth_40 { max-width: 40vw; }
+.brd_r_20 { border-radius: 20px; }
+.wdth_40{ max-width: 40vw; }
+.cont_cntr { text-align: center; }
+.gap_20 { gap: 20px; }
+.fl { display: flex; }
+.fl_r { flex-direction: row; } 
+.fl_c { flex-direction: column; }
+.al_cntr { align-items: center; }
+.just_around { justify-content: space-around;}
+.wdth_110 { width: 110%; }
+.wdth_100 { width: 100%; }
+.wdth_150 { width: 150%; }
+.wdth_105 { width: 105%; }
+.line_sp { line-height: 1.5;}
+.brdr_btm { border-bottom: 3px solid rgb(145, 190, 162)}
+.wdth_60px {width: 60px; }
+.mrgn_lft_40px {margin-left: 40px;}
+.fnt_20 {font-size: 20px;}
+.just_center { justify-content: center;}
+.brd_all { border: 1px solid rgb(145, 190, 162);}
+.hght_250 { height: 250px;}
